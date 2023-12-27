@@ -10,17 +10,17 @@ class StringBuilder{
   }
   padEnd(str) {
     this.str = str;
-     this.values.push(value);
+     this.#value.push(value);
   }
   padStart(str) {
     this.str = str;
-     this.values.(value);
+     this.#value.#value;
   }
 
   padBoth(str) {
-    this.values.(value);
+    this.#value.#value;
     this.str = str;
-     this.values.push(value);
+     this.#value.push(value);
 
   }
     
