@@ -9,18 +9,18 @@ class StringBuilder{
     return this.#value;
   }
   padEnd(str) {
-    this.str = str;
-     this.#value.push(value);
+    this.#value;
+    this.#value + str;
   }
   padStart(str) {
-    this.str = str;
-     this.#value.#value;
+      this.#value + str;
+     
   }
 
   padBoth(str) {
-    this.#value.#value;
-    this.str = str;
-     this.#value.push(value);
+    this.#value + str;
+    this.#value;
+   
 
   }
     
